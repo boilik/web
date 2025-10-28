@@ -1,0 +1,33 @@
+body {
+    background-image:url("")
+}
+
+h1 {
+    color: #6C22FF;
+}
+
+.wrapper{
+    text-align:center;
+    margin-top:20%;
+    display:inline-block;
+}
+input{
+    margin:3px;
+    border-radius:8px;
+    width:60%;
+}
+
+.loginbut{
+    width:63%;
+    border-radius:8px;
+    margin:6px;
+}
+
+.tip{
+    font-size:20px;
+}
+
+a{
+    color:black;
+    text-decoration:none;
+}
