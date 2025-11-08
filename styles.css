@@ -30,7 +30,10 @@ h1 {
 
 }
 
+#email_check{
+    padding: 30px; 
 
+}
 
 input{
     margin:5px;
