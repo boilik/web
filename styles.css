@@ -29,6 +29,9 @@ h1 {
     
 
 }
+form input:first-of-type {
+    margin-top: 20px; 
+}
 
 #email_check{
     padding: 30px; 
